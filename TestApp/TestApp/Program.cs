@@ -10,8 +10,7 @@ namespace TestApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("qwdq");
-            Console.WriteLine("Commit from master branch");
+            
         }
     }
 }
